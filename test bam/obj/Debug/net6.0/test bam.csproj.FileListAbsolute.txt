@@ -1,0 +1,15 @@
+C:\Users\bampr\OneDrive\Desktop\test bam\bin\Debug\net6.0\test bam.exe
+C:\Users\bampr\OneDrive\Desktop\test bam\bin\Debug\net6.0\test bam.deps.json
+C:\Users\bampr\OneDrive\Desktop\test bam\bin\Debug\net6.0\test bam.runtimeconfig.json
+C:\Users\bampr\OneDrive\Desktop\test bam\bin\Debug\net6.0\test bam.dll
+C:\Users\bampr\OneDrive\Desktop\test bam\bin\Debug\net6.0\test bam.pdb
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.csproj.AssemblyReference.cache
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.AssemblyInfoInputs.cache
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.AssemblyInfo.cs
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.csproj.CoreCompileInputs.cache
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.dll
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\refint\test bam.dll
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.pdb
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\test bam.genruntimeconfig.cache
+C:\Users\bampr\OneDrive\Desktop\test bam\obj\Debug\net6.0\ref\test bam.dll
